@@ -12,9 +12,10 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: dofbi/rss-to-readme@v1
         with:
-          feed-url: https://jasonet.co/rss.xml
+          feed-url: https://sanet.st/video-courses/rss/
+          template: "> {{ description }}\n\n[{{ title }}]({{ link }})"
           readme-section: example
           branch: main
 

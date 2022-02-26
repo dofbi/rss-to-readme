@@ -47,7 +47,10 @@ Toolkit.run<Inputs>(async tools => {
   // Create our new list
   const newString = feed.items
     .slice(0, parseInt(tools.inputs.max, 10)) 
-    .map(item => env.renderString(tools.inputs.template, item)).join('\n')
+    .map(item => {
+      console.log(item.title)
+      return env.renderString(tools.inputs.template, item)
+    }).join('\n')
 
   // Prepare some options
   const emptyCommits = tools.inputs['empty-commits'] !== 'false'
