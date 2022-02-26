@@ -72,11 +72,21 @@ Path to the README file to update.
 ### Example RSS feed:
 
 <!--START_SECTION:example-->
-* [Remix first impressions](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;remix-first-impressions&#x2F;)
-* [On &quot;Spike work&quot;](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;on-spike-work&#x2F;)
-* [Assorted thoughts on documentation](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;thoughts-on-docs&#x2F;)
-* [On &quot;lurking&quot;](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;on-lurking&#x2F;)
-* [Probot App or GitHub Action? (Updated)](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;probot-app-or-github-action-v2&#x2F;)
+> 
+
+[A Beginner to Advance Apps in 2 Hours - App Inventor 2](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;a_beginner_to_advance_apps_in_hours_app_inventor.4045831.html)
+> 
+
+[ARM GNU Assembly Programming From Ground Up](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;arm_gnu_assembly_programming_from_ground_upv.4045828.html)
+> 
+
+[How to build an ecommerce store with WordPress   WooCommerce 2022](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;how_to_build_an_ecommerce_store_with_wordpress__woocommerce.4045824.html)
+> 
+
+[Introduction To Blazor Web Assembly Development Using RADZEN](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;introduction_to_blazor_web_assembly_development_using_radzen.4045819.html)
+> 
+
+[CSS Animation: Beginner to Advanced journey (2022)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;css_animation_beginner_to_advanced_journey.4045790.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
