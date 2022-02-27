@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Kali Linux Commands From a Hacker&#39;s Perspective](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;kali_linux_commands_from_a_hackers_perspective.4045854.html)
+[TikTok Marketing Masterclass 2022 CPA marketing using TikTok](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;tiktok_marketing_masterclass_cpa_marketing_using_tiktok.4046754.html)
 > 
 
-[UI design 101 By Irina Nik](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;ui_design_by_irina_nik.4045847.html)
+[Sound Design with Massive](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;sound_design_with_massive.4046752.html)
 > 
 
-[Master in Automated Invoice Maker In Microsoft Excel](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;master_in_automated_invoice_maker_in_microsoft_excel.4045843.html)
+[Mixing for Music Producers](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;mixing_for_music_producers.4046751.html)
 > 
 
-[A Beginner to Advance Apps in 2 Hours - App Inventor 2](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;a_beginner_to_advance_apps_in_hours_app_inventor.4045831.html)
+[Ableton Live for Beginners](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;ableton_live_for_beginners.4046749.html)
 > 
 
-[ARM GNU Assembly Programming From Ground Up](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;arm_gnu_assembly_programming_from_ground_upv.4045828.html)
+[Sound Design with Sylenth](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;sound_design_with_sylenth.4046748.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
