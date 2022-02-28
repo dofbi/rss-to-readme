@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[TikTok Marketing Masterclass 2022 CPA marketing using TikTok](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;tiktok_marketing_masterclass_cpa_marketing_using_tiktok.4046754.html)
+[ELCC Exam Coaching: Entry-Level Cybersecurity Certification](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;elcc_exam_coaching_entry_level_cybersecurity_certification.4047555.html)
 > 
 
-[Sound Design with Massive](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;sound_design_with_massive.4046752.html)
+[HTML Tutorial for Beginners (2022)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;html_tutorial_for_beginners.4047553.html)
 > 
 
-[Mixing for Music Producers](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;mixing_for_music_producers.4046751.html)
+[OSINT (Open Source Intelligence) Social Engineering Course](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;osint_open_source_intelligence_social_engineering_course.4047549.html)
 > 
 
-[Ableton Live for Beginners](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;ableton_live_for_beginners.4046749.html)
+[Basics of Java Programming and OOPS](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;basics_of_java_programming_and_oops.4047546.html)
 > 
 
-[Sound Design with Sylenth](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;sound_design_with_sylenth.4046748.html)
+[Create Electronics E-commerce Website Using Laravel](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;create_electronics_e_commerce_website_using_laravel.4047530.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
