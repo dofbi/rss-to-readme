@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[ELCC Exam Coaching: Entry-Level Cybersecurity Certification](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;elcc_exam_coaching_entry_level_cybersecurity_certification.4047555.html)
+[Learn Mathematical Coding in Python](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;learn_mathematical_coding_in_python.4048689.html)
 > 
 
-[HTML Tutorial for Beginners (2022)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;html_tutorial_for_beginners.4047553.html)
+[Creating Next-Gen Environments in UE5](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;creating_next_gen_environments_in_ue.4048688.html)
 > 
 
-[OSINT (Open Source Intelligence) Social Engineering Course](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;osint_open_source_intelligence_social_engineering_course.4047549.html)
+[Ecommerce Website Design with Divi Step by Step](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;ecommerce_website_design_with_divi_step_by_step.4048676.html)
 > 
 
-[Basics of Java Programming and OOPS](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;basics_of_java_programming_and_oops.4047546.html)
+[Apache Hive for Data Engineers (Hands On)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;apache_hive_for_data_engineers_hands_on.4048671.html)
 > 
 
-[Create Electronics E-commerce Website Using Laravel](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;create_electronics_e_commerce_website_using_laravel.4047530.html)
+[3D modeling with Vectary](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;_d_modeling_with_vectary.4048660.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
