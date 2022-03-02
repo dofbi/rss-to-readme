@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Learn Mathematical Coding in Python](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;learn_mathematical_coding_in_python.4048689.html)
+[Create Cake E-commerce Website Using Laravel](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;create_cake_e_commerce_website_using_laravel.4049902.html)
 > 
 
-[Creating Next-Gen Environments in UE5](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;creating_next_gen_environments_in_ue.4048688.html)
+[Back pain management](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;back_pain_management.4049901.html)
 > 
 
-[Ecommerce Website Design with Divi Step by Step](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;ecommerce_website_design_with_divi_step_by_step.4048676.html)
+[Pandas The ultimate guide on python pandas for data science](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;pandas_the_ultimate_guide_on_python_pandas_for_data_science.4049890.html)
 > 
 
-[Apache Hive for Data Engineers (Hands On)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;apache_hive_for_data_engineers_hands_on.4048671.html)
+[Successful Software Development in Big Corporations](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;successful_software_development_in_big_corporations.4049878.html)
 > 
 
-[3D modeling with Vectary](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;_d_modeling_with_vectary.4048660.html)
+[MIT Scratch Master Class: Beginner to Advanced level](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;mit_scratch_master_class_beginner_to_advanced_level.4049854.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
