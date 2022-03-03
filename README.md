@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Create Cake E-commerce Website Using Laravel](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;create_cake_e_commerce_website_using_laravel.4049902.html)
+[AWS Glue Studio - A Server less ETL Framework](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;aws_glue_studio_a_server_less_etl_framework.4050901.html)
 > 
 
-[Back pain management](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;back_pain_management.4049901.html)
+[HTML, CSS, JavaScript and BootStrap for Web designers](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;html_css_javascript_and_bootstrap_for_web_designers.4050866.html)
 > 
 
-[Pandas The ultimate guide on python pandas for data science](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;pandas_the_ultimate_guide_on_python_pandas_for_data_science.4049890.html)
+[Pneumatic System Using Automation Studio 6.4   TIA   OPC](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;pneumatic_system_using_automation_studio__tia__opc.4050856.html)
 > 
 
-[Successful Software Development in Big Corporations](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;successful_software_development_in_big_corporations.4049878.html)
+[Vue 3, Nuxt.js and Laravel: A Rapid Guide - Advanced](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;vue_nuxt_js_and_laravel_a_rapid_guide_advanced.4050790.html)
 > 
 
-[MIT Scratch Master Class: Beginner to Advanced level](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;mit_scratch_master_class_beginner_to_advanced_level.4049854.html)
+[ESP8266: IoT Electronics, Programing   Eagle PCB Design](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;esp_iot_electronics_programing__eagle_pcb_design.4050730.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
