@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[AWS Glue Studio - A Server less ETL Framework](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;aws_glue_studio_a_server_less_etl_framework.4050901.html)
+[Domestika - Creative Web Design: Planning and Coding from Scratch](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;imfamous&#x2F;domestika_creative_web_design_planning_and_coding_from_scratch.4051909.html)
 > 
 
-[HTML, CSS, JavaScript and BootStrap for Web designers](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;html_css_javascript_and_bootstrap_for_web_designers.4050866.html)
+[How to build and host a WordPress site from zero that loads in less than 1. 5 seconds](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;coursetraining&#x2F;how_to_build_and_host_a_wordpress_site_from_zero_that_loads_in_less_than_seconds.4051887.html)
 > 
 
-[Pneumatic System Using Automation Studio 6.4   TIA   OPC](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;pneumatic_system_using_automation_studio__tia__opc.4050856.html)
+[Fashion Illustration with Adobe Photoshop](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;fashion_illustration_with_adobe_photoshop.4051658.html)
 > 
 
-[Vue 3, Nuxt.js and Laravel: A Rapid Guide - Advanced](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;vue_nuxt_js_and_laravel_a_rapid_guide_advanced.4050790.html)
+[Smart Tips: Project Management   Agile](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;smart_tips_project_management__agile.4051649.html)
 > 
 
-[ESP8266: IoT Electronics, Programing   Eagle PCB Design](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;esp_iot_electronics_programing__eagle_pcb_design.4050730.html)
+[Blockchain: Build a Dapp using Solidity, Hardhat and React](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;blockchain_build_a_dapp_using_solidity_hardhat_and_react.4051642.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
