@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Ace IELTS General Training Writing Task 1](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;ace_ielts_general_training_writing_task.4053099.html)
+[HTML5 Fundamentals Course: Learn HTML Basics in 1 Hour](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;html_fundamentals_course_learn_html_basics_in_hour.4053887.html)
 > 
 
-[Complete DaVinci Resolve 17 Megacourse: Beginner to Expert](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;complete_davinci_resolve_megacourse_beginner_to_expert.4053088.html)
+[Advanced Excel for Financial Reporting   Financial Analysis](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;advanced_excel_for_financial_reporting__financial_analysis.4053884.html)
 > 
 
-[The Fullstack Nft Minting Website Course](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;the_fullstack_nft_minting_website_course.4053063.html)
+[SEO Audit :A Process to Boost your Business Google Rankings](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;seo_audit_a_process_to_boost_your_business_google_rankings.4053877.html)
 > 
 
-[Learn Ethical hacking on any Computer, Mobile, Account](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;learn_ethical_hacking_on_any_computer_mobile_account.4053051.html)
+[Hands-On AppGameKit Classic&#x2F;Studio Mini-Degree (Updating)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;hands_on_appgamekit_classic_studio_mini_degree_updating.4053870.html)
 > 
 
-[3D Printing Start to Finish with TINCARCAD   CURA Software&#39;s](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;_d_printing_start_to_finish_with_tincarcad__cura_softwares.4053021.html)
+[Cambridge C1 (CAE) Key Word Transformation Guidebook](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;cambridge_c_cae_key_word_transformation_guidebook.4053833.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
