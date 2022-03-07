@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[HTML5 Fundamentals Course: Learn HTML Basics in 1 Hour](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;html_fundamentals_course_learn_html_basics_in_hour.4053887.html)
+[An Introduction into Designing Cars!](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;an_introduction_into_designing_cars.4054812.html)
 > 
 
-[Advanced Excel for Financial Reporting   Financial Analysis](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;advanced_excel_for_financial_reporting__financial_analysis.4053884.html)
+[The Video Editing Process for Interviews: Creating the Story Edit](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;the_video_editing_process_for_interviews_creating_the_story_edit.4054777.html)
 > 
 
-[SEO Audit :A Process to Boost your Business Google Rankings](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;seo_audit_a_process_to_boost_your_business_google_rankings.4053877.html)
+[Fun and Easy Illustrations in Procreate - Creating Colorful Houses](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;fun_and_easy_illustrations_in_procreate_creating_colorful_houses.4054761.html)
 > 
 
-[Hands-On AppGameKit Classic&#x2F;Studio Mini-Degree (Updating)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;hands_on_appgamekit_classic_studio_mini_degree_updating.4053870.html)
+[3D Letters Masterclass for Procreate](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;_d_letters_masterclass_for_procreate.4054727.html)
 > 
 
-[Cambridge C1 (CAE) Key Word Transformation Guidebook](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;cambridge_c_cae_key_word_transformation_guidebook.4053833.html)
+[Mastering CSS Grid 2021](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;mastering_css_grid.4054718.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
