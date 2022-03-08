@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[An Introduction into Designing Cars!](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;an_introduction_into_designing_cars.4054812.html)
+[A Practical Project management in excel spreadsheets](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;a_practical_project_management_in_excel_spreadsheets.4055682.html)
 > 
 
-[The Video Editing Process for Interviews: Creating the Story Edit](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;the_video_editing_process_for_interviews_creating_the_story_edit.4054777.html)
+[Learning Spring Security Fundamentals](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;learning_spring_security_fundamentals.4055639.html)
 > 
 
-[Fun and Easy Illustrations in Procreate - Creating Colorful Houses](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;fun_and_easy_illustrations_in_procreate_creating_colorful_houses.4054761.html)
+[Amazon Web Services (AWS) with Python   Boto3](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;amazon_web_services_aws_with_python__boto.4055631.html)
 > 
 
-[3D Letters Masterclass for Procreate](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;_d_letters_masterclass_for_procreate.4054727.html)
+[Communication Skills to Attract, Impress   Convince Anyone](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;communication_skills_to_attract_impress__convince_anyone.4055482.html)
 > 
 
-[Mastering CSS Grid 2021](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;mastering_css_grid.4054718.html)
+[Bass Lessons For Beginners Musicians](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;bass_lessons_for_beginners_musicians.4055480.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
