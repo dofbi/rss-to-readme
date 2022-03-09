@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[A Practical Project management in excel spreadsheets](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;a_practical_project_management_in_excel_spreadsheets.4055682.html)
+[Learning 2D Animation: The Complete Guide](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;learning_d_animation_the_complete_guide.4056686.html)
 > 
 
-[Learning Spring Security Fundamentals](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;learning_spring_security_fundamentals.4055639.html)
+[Full Stack Web Development Foundations: Scratch to Advanced](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;full_stack_web_development_foundations_scratch_to_advanced.4056680.html)
 > 
 
-[Amazon Web Services (AWS) with Python   Boto3](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;amazon_web_services_aws_with_python__boto.4055631.html)
+[Beauty Cosmetic Shop Website with WordPress](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;beauty_cosmetic_shop_website_with_wordpress.4056679.html)
 > 
 
-[Communication Skills to Attract, Impress   Convince Anyone](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;communication_skills_to_attract_impress__convince_anyone.4055482.html)
+[Shopify Store Design   Creation Masterclass: Learn Everything Shopify From A-Z](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;coursetraining&#x2F;shopify_store_design__creation_masterclass_learn_everything_shopify_from_a_z.4056677.html)
 > 
 
-[Bass Lessons For Beginners Musicians](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;bass_lessons_for_beginners_musicians.4055480.html)
+[Cybersecurity Threat Hunting Professional](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;cybersecurity_threat_hunting_professional.4056675.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
