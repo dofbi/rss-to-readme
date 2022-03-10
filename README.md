@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Learning 2D Animation: The Complete Guide](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;learning_d_animation_the_complete_guide.4056686.html)
+[Spring, SpringBoot, JPA, Hibernate : Zero To Master](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;spring_springboot_jpa_hibernate_zero_to_master.4057677.html)
 > 
 
-[Full Stack Web Development Foundations: Scratch to Advanced](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;full_stack_web_development_foundations_scratch_to_advanced.4056680.html)
+[Complete Modeling   Animating a Drone in Blender 3.0](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;complete_modeling__animating_a_drone_in_blender.4057673.html)
 > 
 
-[Beauty Cosmetic Shop Website with WordPress](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;beauty_cosmetic_shop_website_with_wordpress.4056679.html)
+[Altium Course Learn Altium Designer today](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;altium_course_learn_altium_designer_today.4057661.html)
 > 
 
-[Shopify Store Design   Creation Masterclass: Learn Everything Shopify From A-Z](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;coursetraining&#x2F;shopify_store_design__creation_masterclass_learn_everything_shopify_from_a_z.4056677.html)
+[Learn All About TIA Portal From Basics](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;learn_all_about_tia_portal_from_basics.4057657.html)
 > 
 
-[Cybersecurity Threat Hunting Professional](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;cybersecurity_threat_hunting_professional.4056675.html)
+[Build and Create 3D model in Blender 3.0 for Low-Poly Design](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;build_and_create_d_model_in_blender_for_low_poly_design.4057652.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
