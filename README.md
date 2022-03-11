@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Spring, SpringBoot, JPA, Hibernate : Zero To Master](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;spring_springboot_jpa_hibernate_zero_to_master.4057677.html)
+[Class101 - NCHO - Learn to Draw Beautiful Anime Drawings on the iPad](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;imfamous&#x2F;class_ncho_learn_to_draw_beautiful_anime_drawings_on_the_ipad.4058680.html)
 > 
 
-[Complete Modeling   Animating a Drone in Blender 3.0](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;complete_modeling__animating_a_drone_in_blender.4057673.html)
+[Digital Marketing Automation: Save Time](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;digital_marketing_automation_save_time.4058657.html)
 > 
 
-[Altium Course Learn Altium Designer today](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;altium_course_learn_altium_designer_today.4057661.html)
+[Business Development and Future of Work Fortune 500 Leaders](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;business_development_and_future_of_work_fortune_leaders.4058645.html)
 > 
 
-[Learn All About TIA Portal From Basics](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;learn_all_about_tia_portal_from_basics.4057657.html)
+[Tech Tip Series: Intermediate 1   2](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;tech_tip_series_intermediate_.4058644.html)
 > 
 
-[Build and Create 3D model in Blender 3.0 for Low-Poly Design](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;build_and_create_d_model_in_blender_for_low_poly_design.4057652.html)
+[Intimate Photography Portraits](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;intimate_photography_portraits.4058642.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
