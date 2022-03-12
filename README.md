@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Class101 - NCHO - Learn to Draw Beautiful Anime Drawings on the iPad](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;imfamous&#x2F;class_ncho_learn_to_draw_beautiful_anime_drawings_on_the_ipad.4058680.html)
+[Creating Thumbnails for YouTube Using Photoshop CC](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;creating_thumbnails_for_youtube_using_photoshop_cc.4059731.html)
 > 
 
-[Digital Marketing Automation: Save Time](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;digital_marketing_automation_save_time.4058657.html)
+[Google Forms Fundamentals](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;google_forms_fundamentals.4059730.html)
 > 
 
-[Business Development and Future of Work Fortune 500 Leaders](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;business_development_and_future_of_work_fortune_leaders.4058645.html)
+[Analog Electronics part-2 (All About Transistors in depth)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;analog_electronics_part_all_about_transistors_in_depth.4059723.html)
 > 
 
-[Tech Tip Series: Intermediate 1   2](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;tech_tip_series_intermediate_.4058644.html)
+[Business English Vocabulary Launch](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;business_english_vocabulary_launch.4059673.html)
 > 
 
-[Intimate Photography Portraits](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;intimate_photography_portraits.4058642.html)
+[Create your own NFT game in Unity from cero](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;create_your_own_nft_game_in_unity_from_cero.4059672.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
