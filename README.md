@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Creating Thumbnails for YouTube Using Photoshop CC](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;creating_thumbnails_for_youtube_using_photoshop_cc.4059731.html)
+[Fatek Plc Programming Basics with Applications - All In One](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;fatek_plc_programming_basics_with_applications_all_in_one.4060520.html)
 > 
 
-[Google Forms Fundamentals](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;google_forms_fundamentals.4059730.html)
+[Beginner&#39;s guide to master Adobe Animate (animation course)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;beginners_guide_to_master_adobe_animate_animation_course.4060512.html)
 > 
 
-[Analog Electronics part-2 (All About Transistors in depth)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;analog_electronics_part_all_about_transistors_in_depth.4059723.html)
+[Java And PHP Programming Complete Course 2022](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;java_and_php_programming_complete_course.4060508.html)
 > 
 
-[Business English Vocabulary Launch](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;business_english_vocabulary_launch.4059673.html)
+[Build Employees Management System With PHP](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;build_employees_management_system_with_php.4060505.html)
 > 
 
-[Create your own NFT game in Unity from cero](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;create_your_own_nft_game_in_unity_from_cero.4059672.html)
+[How to build a website with WordPress - A Beginners Course](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;how_to_build_a_website_with_wordpress_a_beginners_course.4060495.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
