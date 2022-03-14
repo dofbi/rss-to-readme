@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Fatek Plc Programming Basics with Applications - All In One](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;fatek_plc_programming_basics_with_applications_all_in_one.4060520.html)
+[Career in I-O Psychology](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;career_in_i_o_psychology.4061320.html)
 > 
 
-[Beginner&#39;s guide to master Adobe Animate (animation course)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;beginners_guide_to_master_adobe_animate_animation_course.4060512.html)
+[Extended: Marcus Aurelius Meditations Study Implementing](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;extended_marcus_aurelius_meditations_study_implementing.4061319.html)
 > 
 
-[Java And PHP Programming Complete Course 2022](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;java_and_php_programming_complete_course.4060508.html)
+[Certified Bach Flower Therapist Course - Become a Healer](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;certified_bach_flower_therapist_course_become_a_healer.4061318.html)
 > 
 
-[Build Employees Management System With PHP](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;build_employees_management_system_with_php.4060505.html)
+[Photoshop CC for Photographers by Barry J Brady](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;photoshop_cc_for_photographers_by_barry_j_brady.4061313.html)
 > 
 
-[How to build a website with WordPress - A Beginners Course](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;how_to_build_a_website_with_wordpress_a_beginners_course.4060495.html)
+[Azure DevOps - Your Path to Get Ready for Azure DevOps Roles](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;azure_devops_your_path_to_get_ready_for_azure_devops_roles.4061309.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
