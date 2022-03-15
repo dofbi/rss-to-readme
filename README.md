@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Career in I-O Psychology](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;career_in_i_o_psychology.4061320.html)
+[Python Programming for Beginners (2022)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;python_programming_for_beginners.4062241.html)
 > 
 
-[Extended: Marcus Aurelius Meditations Study Implementing](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;extended_marcus_aurelius_meditations_study_implementing.4061319.html)
+[MATLAB: How to create professional Graphic User Interfaces](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;matlab_how_to_create_professional_graphic_user_interfaces.4062238.html)
 > 
 
-[Certified Bach Flower Therapist Course - Become a Healer](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;certified_bach_flower_therapist_course_become_a_healer.4061318.html)
+[Firebase 9 Full Course - Learn Firebase from Scratch](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;firebase_full_course_learn_firebase_from_scratch.4062232.html)
 > 
 
-[Photoshop CC for Photographers by Barry J Brady](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;photoshop_cc_for_photographers_by_barry_j_brady.4061313.html)
+[Linux Security for Beginners](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;linux_security_for_beginners.4062228.html)
 > 
 
-[Azure DevOps - Your Path to Get Ready for Azure DevOps Roles](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;azure_devops_your_path_to_get_ready_for_azure_devops_roles.4061309.html)
+[Practical Course: Laptop won&#39;t turn on failure repair](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;practical_course_laptop_wont_turn_on_failure_repair.4062223.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
