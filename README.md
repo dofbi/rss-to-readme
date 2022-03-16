@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Python Programming for Beginners (2022)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;python_programming_for_beginners.4062241.html)
+[Critical skills for New Managers](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;critical_skills_for_new_managers.4063374.html)
 > 
 
-[MATLAB: How to create professional Graphic User Interfaces](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;matlab_how_to_create_professional_graphic_user_interfaces.4062238.html)
+[Advertising Photography Tutorial: Shampoo and Soap Bubbles](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;advertising_photography_tutorial_shampoo_and_soap_bubbles.4063257.html)
 > 
 
-[Firebase 9 Full Course - Learn Firebase from Scratch](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;firebase_full_course_learn_firebase_from_scratch.4062232.html)
+[Pet Portraits: Capture Studio-Quality Photos of Your Pet](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;pet_portraits_capture_studio_quality_photos_of_your_pet.4063252.html)
 > 
 
-[Linux Security for Beginners](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;linux_security_for_beginners.4062228.html)
+[Figma Prototyping   Animations: Design Interactive Prototypes](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;figma_prototyping__animations_design_interactive_prototypes.4063250.html)
 > 
 
-[Practical Course: Laptop won&#39;t turn on failure repair](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;practical_course_laptop_wont_turn_on_failure_repair.4062223.html)
+[Watercolour Illustrations: Based on Client Requirements](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;watercolour_illustrations_based_on_client_requirements.4063247.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
