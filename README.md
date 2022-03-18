@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Infographic Design: Simple Infographic Design in Illustrator](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;infographic_design_simple_infographic_design_in_illustrator.4064302.html)
+[Weatherby Photography - Shooting Panoramas](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;weatherby_photography_shooting_panoramas.4065123.html)
 > 
 
-[Leading Meetings in the Digital Age](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;leading_meetings_in_the_digital_age.4064297.html)
+[The Right Trade - Day Trading Futures](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;the_right_trade_day_trading_futures.4065120.html)
 > 
 
-[NFT Social Media Marketing](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;nft_social_media_marketing.4064295.html)
+[Certified Blockchain Solutions Architect (CBSA)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;certified_blockchain_solutions_architect_cbsa.4064957.html)
 > 
 
-[Wingfox  Making A CGI Sci-Fi Short Film - DEEP with Gao Zihan](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;imfamous&#x2F;wingfox_v_making_a_cgi_sci_fi_short_film_deep_with_gao_zihan.4064163.html)
+[Software Testing Life Cycle](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;software_testing_life_cycle.4064952.html)
 > 
 
-[Key Account Management - The Masterclass](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;key_account_management_the_masterclass.4064027.html)
+[Salesforce Flows - Learn Salesforce Lightning Flows Fast](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;salesforce_flows_learn_salesforce_lightning_flows_fast.4064941.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
