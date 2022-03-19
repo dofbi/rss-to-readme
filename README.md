@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Weatherby Photography - Shooting Panoramas](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;weatherby_photography_shooting_panoramas.4065123.html)
+[Blender for Complete Beginners Course](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;blender_for_complete_beginners_course.4066307.html)
 > 
 
-[The Right Trade - Day Trading Futures](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;the_right_trade_day_trading_futures.4065120.html)
+[Python Database: Quickly learn Python Database](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;python_database_quickly_learn_python_database.4066306.html)
 > 
 
-[Certified Blockchain Solutions Architect (CBSA)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;certified_blockchain_solutions_architect_cbsa.4064957.html)
+[Photography Storytelling by Michelle E. Black](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;photography_storytelling_by_michelle_e_black.4066305.html)
 > 
 
-[Software Testing Life Cycle](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;software_testing_life_cycle.4064952.html)
+[Create Digital Fashion Designs using Photoshop](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;create_digital_fashion_designs_using_photoshop.4066300.html)
 > 
 
-[Salesforce Flows - Learn Salesforce Lightning Flows Fast](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;salesforce_flows_learn_salesforce_lightning_flows_fast.4064941.html)
+[Learn Flutter In-App Subscriptions form Scratch](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;learn_flutter_in_app_subscriptions_form_scratch.4066295.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
