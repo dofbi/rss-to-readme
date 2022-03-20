@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Blender for Complete Beginners Course](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;blender_for_complete_beginners_course.4066307.html)
+[Ultimate Guide UiPath 7 hands-on projects-By Pranav Kashyap](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;ultimate_guide_uipath_hands_on_projects_by_pranav_kashyap.4067084.html)
 > 
 
-[Python Database: Quickly learn Python Database](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;python_database_quickly_learn_python_database.4066306.html)
+[Godot Engine The Ultimate Inventory System and UI Course](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;godot_engine_the_ultimate_inventory_system_and_ui_course.4067076.html)
 > 
 
-[Photography Storytelling by Michelle E. Black](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;photography_storytelling_by_michelle_e_black.4066305.html)
+[Build Electronic Devices Store Using Laravel](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;build_electronic_devices_store_using_laravel.4067073.html)
 > 
 
-[Create Digital Fashion Designs using Photoshop](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;create_digital_fashion_designs_using_photoshop.4066300.html)
+[To Hell With Cell 2022 iPad &#x2F; iPhone Edition (PART TWO)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;to_hell_with_cell_ipad_iphone_edition_part_two.4067047.html)
 > 
 
-[Learn Flutter In-App Subscriptions form Scratch](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;learn_flutter_in_app_subscriptions_form_scratch.4066295.html)
+[Certified Blockchain Developer Hyperledger (CBDH) (2022)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;certified_blockchain_developer_hyperledger_cbdh.4067039.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
