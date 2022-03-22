@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Orchestration Masterclass, Part 2: Brass, Voice,   Guitar](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;orchestration_masterclass_part_brass_voice__guitar.4067787.html)
+[Skillshare - Microsoft Excel - Data Analysis with Excel Pivot Tables](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;skillshare_microsoft_excel_data_analysis_with_excel_pivot_tables.4068590.html)
 > 
 
-[Orchestration Masterclass, Part 1: The Strings and The Winds](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;orchestration_masterclass_part_the_strings_and_the_winds.4067785.html)
+[Graphic design with canva: beginner to pro](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;graphic_design_with_canva_beginner_to_pro.4068587.html)
 > 
 
-[Intro to 3D Modeling: Make a 3D Game Prop in Blender](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;intro_to_d_modeling_make_a_d_game_prop_in_blender.4067781.html)
+[Microsoft Excel | An Aspirant&#39;s Guide](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;microsoft_excel__an_aspirants_guide.4068582.html)
 > 
 
-[30 Days of Photoshop](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;_days_of_photoshop.4067780.html)
+[Sketchbook 101: Start a Sketchbook](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;sketchbook_start_a_sketchbook.4068580.html)
 > 
 
-[Cryptocurrency and Blockchain Fundamentals](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;cryptocurrency_and_blockchain_fundamentals.4067770.html)
+[Watercolor a Seamless Pattern: Surface Design in Adobe Photoshop for Print-On-Demand](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;watercolor_a_seamless_pattern_surface_design_in_adobe_photoshop_for_print_on_demand.4068570.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
