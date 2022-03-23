@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Skillshare - Microsoft Excel - Data Analysis with Excel Pivot Tables](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;skillshare_microsoft_excel_data_analysis_with_excel_pivot_tables.4068590.html)
+[Intermediate Three.js with Shaders](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;intermediate_three_js_with_shaders.4069909.html)
 > 
 
-[Graphic design with canva: beginner to pro](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;graphic_design_with_canva_beginner_to_pro.4068587.html)
+[New Fintech Revolution   Blockchain Technology Interventions](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;new_fintech_revolution__blockchain_technology_interventions.4069903.html)
 > 
 
-[Microsoft Excel | An Aspirant&#39;s Guide](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;microsoft_excel__an_aspirants_guide.4068582.html)
+[Complete Guide WordPress Theme   Plugin Development](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;complete_guide_wordpress_theme__plugin_development.4069844.html)
 > 
 
-[Sketchbook 101: Start a Sketchbook](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;sketchbook_start_a_sketchbook.4068580.html)
+[Practical Python Wavelet Transforms (I): Fundamentals](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;practical_python_wavelet_transforms_i_fundamentals.4069840.html)
 > 
 
-[Watercolor a Seamless Pattern: Surface Design in Adobe Photoshop for Print-On-Demand](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;watercolor_a_seamless_pattern_surface_design_in_adobe_photoshop_for_print_on_demand.4068570.html)
+[Microsoft Excel Beginner to Advanced Tutorials](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;microsoft_excel_beginner_to_advanced_tutorials.4069835.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
