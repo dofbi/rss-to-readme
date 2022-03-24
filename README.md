@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Intermediate Three.js with Shaders](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;intermediate_three_js_with_shaders.4069909.html)
+[Business Analysis and Future of Work: Fortune 500 Leaders](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;business_analysis_and_future_of_work_fortune_leaders.4070922.html)
 > 
 
-[New Fintech Revolution   Blockchain Technology Interventions](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;new_fintech_revolution__blockchain_technology_interventions.4069903.html)
+[Build a Premium Job Board Website With Wordpress](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;build_a_premium_job_board_website_with_wordpress.4070918.html)
 > 
 
-[Complete Guide WordPress Theme   Plugin Development](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;complete_guide_wordpress_theme__plugin_development.4069844.html)
+[A Complete Scrum Master Course (2022)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;a_complete_scrum_master_course.4070881.html)
 > 
 
-[Practical Python Wavelet Transforms (I): Fundamentals](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;practical_python_wavelet_transforms_i_fundamentals.4069840.html)
+[Learn GDevelop by creating a 2D Platformer Game](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;learn_gdevelop_by_creating_a_d_platformer_game.4070872.html)
 > 
 
-[Microsoft Excel Beginner to Advanced Tutorials](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;microsoft_excel_beginner_to_advanced_tutorials.4069835.html)
+[Docker   Kubernetes Interview Readiness Course](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;docker__kubernetes_interview_readiness_course.4070855.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
