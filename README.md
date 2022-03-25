@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Business Analysis and Future of Work: Fortune 500 Leaders](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;business_analysis_and_future_of_work_fortune_leaders.4070922.html)
+[Machine Learning with Python - Practical Application](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;machine_learning_with_python_practical_application.4071903.html)
 > 
 
-[Build a Premium Job Board Website With Wordpress](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;tomorrowland2&#x2F;build_a_premium_job_board_website_with_wordpress.4070918.html)
+[Security Controls: CIS Controls](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;security_controls_cis_controls.4071901.html)
 > 
 
-[A Complete Scrum Master Course (2022)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;a_complete_scrum_master_course.4070881.html)
+[Optimizing an EKS Cluster for Price and Performance](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;optimizing_an_eks_cluster_for_price_and_performance.4071900.html)
 > 
 
-[Learn GDevelop by creating a 2D Platformer Game](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;learn_gdevelop_by_creating_a_d_platformer_game.4070872.html)
+[How to use Doodly white board Animation software a Tutorial](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;how_to_use_doodly_white_board_animation_software_a_tutorial.4071896.html)
 > 
 
-[Docker   Kubernetes Interview Readiness Course](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;exclusivetutorials&#x2F;docker__kubernetes_interview_readiness_course.4070855.html)
+[Fundamentals of Citrix Analytics for Security](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;fundamentals_of_citrix_analytics_for_security.4071894.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
