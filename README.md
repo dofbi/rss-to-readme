@@ -74,19 +74,19 @@ Path to the README file to update.
 <!--START_SECTION:example-->
 > 
 
-[Machine Learning with Python - Practical Application](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;machine_learning_with_python_practical_application.4071903.html)
+[SQL and Relational Database course](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;sql_and_relational_database_course.4072838.html)
 > 
 
-[Security Controls: CIS Controls](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;security_controls_cis_controls.4071901.html)
+[Arduino Object Oriented Programming (Updating)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;arduino_object_oriented_programming_updating.4072836.html)
 > 
 
-[Optimizing an EKS Cluster for Price and Performance](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;optimizing_an_eks_cluster_for_price_and_performance.4071900.html)
+[Full Mern Stack Project with MongoDB, Express, React, NodeJS](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;full_mern_stack_project_with_mongodb_express_react_nodejs.4072822.html)
 > 
 
-[How to use Doodly white board Animation software a Tutorial](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;how_to_use_doodly_white_board_animation_software_a_tutorial.4071896.html)
+[Machine Learning with Python by Aakash Singh](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;machine_learning_with_python_by_aakash_singh.4072809.html)
 > 
 
-[Fundamentals of Citrix Analytics for Security](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;training4all&#x2F;fundamentals_of_citrix_analytics_for_security.4071894.html)
+[Building Azure Infrastructure via PowerShell](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;building_azure_infrastructure_via_powershell.4072800.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
