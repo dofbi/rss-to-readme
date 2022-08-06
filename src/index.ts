@@ -20,7 +20,7 @@ interface Inputs {
   branch: string
   [key: string]: string
 }
-
+console.log("---------------------Get Readme---------------------")
 async function getReadme(tools: Toolkit, branch: string, path: string) {
   const { data } = await tools.github.request('GET /repos/:owner/:repo/contents/:path', {
     ...tools.context.repo,

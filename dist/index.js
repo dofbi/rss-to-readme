@@ -37517,9 +37517,12 @@ var __generator = (undefined && undefined.__generator) || function (thisArg, bod
 
 // @ts-ignore
 
-var parser = new (rss_parser__WEBPACK_IMPORTED_MODULE_2___default())();
+var parser = new (rss_parser__WEBPACK_IMPORTED_MODULE_2___default())({
+    headers: { 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36' },
+});
 var env = nunjucks__WEBPACK_IMPORTED_MODULE_3___default().configure({ autoescape: false });
 env.addFilter('date', (nunjucks_date_filter__WEBPACK_IMPORTED_MODULE_4___default()));
+console.log("---------------------Get Readme---------------------");
 function getReadme(tools, branch, path) {
     return __awaiter(this, void 0, void 0, function () {
         var data, encoded, decoded;
