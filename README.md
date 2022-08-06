@@ -72,21 +72,6 @@ Path to the README file to update.
 ### Example RSS feed:
 
 <!--START_SECTION:example-->
-> 
-
-[SQL and Relational Database course](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;sql_and_relational_database_course.4072838.html)
-> 
-
-[Arduino Object Oriented Programming (Updating)](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;arduino_object_oriented_programming_updating.4072836.html)
-> 
-
-[Full Mern Stack Project with MongoDB, Express, React, NodeJS](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;full_mern_stack_project_with_mongodb_express_react_nodejs.4072822.html)
-> 
-
-[Machine Learning with Python by Aakash Singh](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;machine_learning_with_python_by_aakash_singh.4072809.html)
-> 
-
-[Building Azure Infrastructure via PowerShell](https:&#x2F;&#x2F;sanet.st&#x2F;blogs&#x2F;bonnytuts&#x2F;building_azure_infrastructure_via_powershell.4072800.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
